@@ -11,3 +11,32 @@
     border: 5px solid black;
 }
 
+.chal-1box1{
+    margin-bottom: 2vh;
+    width: 100vw;
+    height:33vh;
+    background-color: antiquewhite;
+    border-color: 5vh solid black;
+    display:block;
+}
+.chal-1box2{
+    margin-bottom: 2vh;
+    width: 100vw;
+    height:33vh;
+    background-color: palevioletred;
+    border-color: 5vh solid black;
+    display:block;
+}
+.chal-1box3{
+    margin-bottom: 2vh;
+    width: 100vw;
+    height:33vh;
+    background-color:crimson;
+    border-color: 5vh solid black;
+    display:block;
+}
+
+.chal-2{
+    display:inline;
+
+}
